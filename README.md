@@ -21,5 +21,6 @@ I am working on the game and all the games on itch.io shows my progress, they ar
 https://bishvjit-gupta.itch.io/steam-release-5 is coming soon till that time I will decide a name for my Game. 
 Till now I would love to get any __feedback__ on my game. (https://bishvjit-gupta.itch.io/steam-release-4)
 
+###### If you don't want to waste time finding the latest version, visit https://bishvjit-gupta.itch.io/space-dash. This is always updated to be the latest version.
 
 ### Thank You for spending your precious time reading my nonsense😅.
