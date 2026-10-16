@@ -11,16 +11,11 @@ I was seeing python lectures from two different channels though they taught me t
 Sounds funny, yeah it is!
 
 I tried over a dozen of Game Engines but eventually I choose **Phaser** because unity is too expensive for my laptop RAM and VRAM. Godot bundle size is too big. PlayCanvas is 3D and many more, I didn't even remembered what all I have tried. 
-I learnt Phaser from documentation, I think the Phaser should have a little more straight forward documentation. It was too confusing. 
+I learnt Phaser from documentation, I think the Phaser have a great documentation.  
 
 I got some small games or you can say features of game. 
 *You can go to https://bishvjit-gupta.itch.io/ to view my Itch.io profile*, there you can find my games showing my progress in Game Development.
-Currently my latest game is at https://bishvjit-gupta.itch.io/steam-release-4, yes I didn't got any name for my game so it is like this.
-I am working on the game and all the games on itch.io shows my progress, they are the same but updated version 
+Currently my latest game is at https://bishvjit-gupta.itch.io/space-dash
+I would love to get any feedback on it.
 
-https://bishvjit-gupta.itch.io/steam-release-5 is coming soon till that time I will decide a name for my Game. 
-Till now I would love to get any __feedback__ on my game. (https://bishvjit-gupta.itch.io/steam-release-4)
-
-###### If you don't want to waste time finding the latest version, visit https://bishvjit-gupta.itch.io/space-dash. This is always updated to be the latest version.
-
-### Thank You for spending your precious time reading my nonsense😅.
+### Thank You for spending your precious time reading this.
